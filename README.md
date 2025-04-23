@@ -21,8 +21,6 @@
       libosmesa6-dev \
       patchelf
    sudo apt-get install -y xvfb
-   
-   
    ```
 
 2. Train and save model in `/model`:
@@ -34,7 +32,7 @@
 3. Evaluate model and save videos:
    
    ```
-   python ant_evaluate.py**B. Slides**
+   python ant_evaluate.py
    ```
 
 **B. Slides**
